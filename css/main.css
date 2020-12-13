@@ -6,3 +6,5 @@
 
 body {font-size: 16px; font-family: 'Arial', 'helvetica', sans-serif; }
 .hidden {display: none;}
+.subhead {color: Salmon;}
+.data-graphic { border: thin dashed blue; width: 300px; }
